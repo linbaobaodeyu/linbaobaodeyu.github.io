@@ -41,9 +41,9 @@
     
       <category term="随笔" scheme="https://linbaobaodeyu.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="面向对象" scheme="https://linbaobaodeyu.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
-    
       <category term="测试" scheme="https://linbaobaodeyu.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+      <category term="面向对象" scheme="https://linbaobaodeyu.github.io/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
     
   </entry>
   
@@ -71,9 +71,9 @@
     
       <category term="随笔" scheme="https://linbaobaodeyu.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
     
-      <category term="测试" scheme="https://linbaobaodeyu.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
-    
       <category term="requests" scheme="https://linbaobaodeyu.github.io/tags/requests/"/>
+    
+      <category term="测试" scheme="https://linbaobaodeyu.github.io/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
